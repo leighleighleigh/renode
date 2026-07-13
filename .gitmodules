@@ -1,6 +1,6 @@
 [submodule "src/Infrastructure"]
 	path = src/Infrastructure
-	url = https://github.com/renode/renode-infrastructure.git
+	url = https://github.com/leighleighleigh/renode-infrastructure.git
 [submodule "lib/termsharp"]
 	path = lib/termsharp
 	url = https://github.com/antmicro/termsharp.git
@@ -44,3 +44,6 @@
 [submodule "tools/models_analyzer"]
 	path = tools/models_analyzer
 	url = https://github.com/antmicro/renode-models-analyzer.git
+[submodule "lib/dotnet-webassembly"]
+	path = lib/dotnet-webassembly
+	url = https://github.com/leighleighleigh/dotnet-webassembly
